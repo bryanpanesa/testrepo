@@ -36,3 +36,10 @@ img {
 	max-width: 800px;
 	margin: 30px auto 0 auto;
 }
+.photo video {
+	display: inline-block;
+	margin: auto;
+	border-left: 8px solid #FFD717;
+	border-right: 8px solid #FFD717;
+	border-bottom: 8px solid #FFD717;
+}
